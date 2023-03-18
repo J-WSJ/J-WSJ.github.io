@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>文章测试</title>
+      <link href="/2023/03/11/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/03/11/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<p>测试</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>游戏通论</title>
       <link href="/2023/03/11/%E6%B8%B8%E6%88%8F%E9%80%9A%E8%AE%BA/"/>
       <url>/2023/03/11/%E6%B8%B8%E6%88%8F%E9%80%9A%E8%AE%BA/</url>
@@ -26,22 +45,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/data/link.json"/>
+      <url>/data/link.json</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[[{"class_name":"1.技术支持","class_desc":"本网站的搭建由以下开源作者提供技术支持","link_list":[{"name":"Hexo","link":"https://hexo.io/zh-cn/","avatar":"https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg","descr":"快速、简单且强大的网志框架","siteshot":"https://source.fomal.cc/siteshot/hexo.io.jpg"}]},{"class_name":"2.友情链接","class_desc":"一些好朋友~~","link_list":[{"name":"Fomalhaut🥝","link":"https://fomal.cc/","avatar":"/assets/head.jpg","descr":"Future is now 🍭🍭🍭","siteshot":"https://source.fomal.cc/siteshot/www.fomal.cn.jpg"}]}]]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/data/link.json"/>
-      <url>/data/link.json</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[[{"class_name":"1.技术支持","class_desc":"本网站的搭建由以下开源作者提供技术支持","link_list":[{"name":"Hexo","link":"https://hexo.io/zh-cn/","avatar":"https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg","descr":"快速、简单且强大的网志框架","siteshot":"https://source.fomal.cc/siteshot/hexo.io.jpg"}]},{"class_name":"2.友情链接","class_desc":"一些好朋友~~","link_list":[{"name":"Fomalhaut🥝","link":"https://fomal.cc/","avatar":"/assets/head.jpg","descr":"Future is now 🍭🍭🍭","siteshot":"https://source.fomal.cc/siteshot/www.fomal.cn.jpg"}]}]]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -59,9 +78,20 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index-1.html"/>
+      <url>/tags/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -84,17 +114,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index-1.html"/>
-      <url>/tags/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
